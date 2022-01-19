@@ -1,3 +1,6 @@
+// The top level module for the React frontend. Most of the logic
+// lives in here.
+
 import './App.css';
 import data from './all.json'
 import {
