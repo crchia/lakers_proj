@@ -7,5 +7,5 @@ Visit [this site](https://lakers-jon-smith.netlify.app/) for the visualization/d
 See `lakers_playoffs.pdf` in the base directory for the writeup.
 
 ### Code
-All code produced can be found in the `src` and `python` folders. \\
+All code produced can be found in the `src` and `python` folders.  
 Specifically, `python/main.py` and `src/App.js` contain the bulk of the logic.
